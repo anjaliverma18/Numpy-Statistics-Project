@@ -48,11 +48,11 @@ The dataset contains the following columns, as shown in the notebook:
 2. Navigate to the project folder:  
    cd numpy-statistics-project  
 
-3. Install the required libraries:
-   -numpy
-   -pandas
-   -matplotlib
-   -seaborn
+3. Install the required libraries:  
+   -numpy  
+   -pandas  
+   -matplotlib  
+   -seaborn  
    -scipy  
 
 4. Open `numpy_statistics_project.ipynb` and run the cells in order.  
