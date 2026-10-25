@@ -1,1 +1,8 @@
+# Requirements:  
+-Jupyter Notebook  
+-Pandas  
+-Numpy  
+-Matplotlib  
+-Seaborn  
+-Scipy  
 
